@@ -1,6 +1,0 @@
-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
-
-git push https://<GITHUB_ACCESS_TOKEN>@github.com/<GITHUB_USERNAME>/<REPOSITORY_NAME>.git
-
-# Example 
-git push https://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@github.com/Azat-1997/HomeTelegamBot.git
